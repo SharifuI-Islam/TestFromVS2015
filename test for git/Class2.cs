@@ -6,5 +6,6 @@ namespace test_for_git
 {
     class Class2
     {
+        public int Adil { get; set; }
     }
 }
